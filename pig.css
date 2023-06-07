@@ -1,0 +1,109 @@
+.ears{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    width: 230px;
+    margin-top:10%;
+    margin-left:38%;
+    position:relative;
+}
+#lear{
+    height: 80px;
+    width: 80px;
+    background-color:#F9A195;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border: 2px solid;
+}
+#rear{
+    height: 80px;
+    width: 80px;
+    background-color:#F9A195;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border:2px solid;
+}
+.face{
+    height: 210px;
+    width: 210px;
+    background-color:#F9A195;
+    border-radius: 50%;
+    position:relative;
+    margin-left:38.8%;
+    margin-top:-5%;
+    border:2px solid;
+}
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    width: 250px;
+    margin-top: 20.3%;
+    margin-left:-7.8%;
+}
+#leye{
+    height: 48px;
+    width: 48px;
+    background-color: white;
+    border-radius: 50%;
+}
+#reye{
+    height: 48px;
+    width: 48px;
+    background-color: white;
+    border-radius: 50%;
+}
+.black{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    width: 270px;
+    margin-top: 27%;
+    margin-left:-12%;
+}
+#eyel{
+    height: 23px;
+    width: 23px;
+    background-color: black;
+    border-radius: 50%;
+}
+#eyer{
+    height: 23px;
+    width: 23px;
+    background-color: black;
+    border-radius: 50%;
+}
+.mouth{
+    height:50px;
+    width:95px;
+    position:absolute;
+    margin-top:56%;
+    margin-left:29%;
+    background-color:red;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius:25px ;
+    border: 2px solid;
+
+}
+.hole{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    width: 100px;
+    margin-top: 10%;
+    margin-left:-4%;
+}
+#hole1{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+#hole2{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
